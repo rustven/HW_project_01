@@ -1,0 +1,4 @@
+1;Nissan;X-Trail;2020
+2;Nissan;Qashqai;2017
+3;Ford;Focus;2015
+4;Dodge;Charger;1969
